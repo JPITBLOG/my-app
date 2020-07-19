@@ -1,0 +1,34 @@
+tr.hide_all > td, td.hide_all{
+    border-style:hidden;
+}
+.searchable-wrap{
+    border-bottom: 1px solid #9b9fa5;
+    margin-bottom: 8px;
+    padding: 5px;
+    background-color: white;
+    width: 800px;
+}
+
+.searchable-wrap .media-body{
+    margin-left: 8px;
+}
+.searchable-wrap1 {
+    display: flex;
+}
+.price-list{
+    display: flex;
+    flex-direction: column;
+}
+.price-list p {
+    margin: 0;
+}
+.title-content{
+    font-size:14px;
+    width: 50%;
+}
+.subtitle-content {
+    width: 90%;
+}
+.course-rate{
+    font-size: 15px;
+}
