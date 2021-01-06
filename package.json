@@ -23,7 +23,7 @@
     "@types/redux": "^3.6.0",
     "@types/redux-thunk": "^2.1.0",
     "antd": "^3.26.17",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "history": "^4.10.1",
     "multiselect-react-dropdown": "^1.5.0",
